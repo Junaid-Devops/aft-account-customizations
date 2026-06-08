@@ -1,0 +1,727 @@
+{
+  "instances": [
+    {
+      "app": "Amazon Access Analyzer",
+      "instance_id": "replacewithaccountid",
+      "instance_name": "replacewithaccountname",
+      "tags": ["Sanctioned"]
+    },
+    {
+      "app": "Amazon Accounts",
+      "instance_id": "replacewithaccountid",
+      "instance_name": "replacewithaccountname",
+      "tags": ["Sanctioned"]
+    },
+    {
+      "app": "Amazon API Gateway",
+      "instance_id": "replacewithaccountid",
+      "instance_name": "replacewithaccountname",
+      "tags": ["Sanctioned"]
+    },
+    {
+      "app": "Amazon API Gateway V2",
+      "instance_id": "replacewithaccountid",
+      "instance_name": "replacewithaccountname",
+      "tags": ["Sanctioned"]
+    },
+    {
+      "app": "Amazon AppConfig",
+      "instance_id": "replacewithaccountid",
+      "instance_name": "replacewithaccountname",
+      "tags": ["Sanctioned"]
+    },
+    {
+      "app": "Amazon App Runner",
+      "instance_id": "replacewithaccountid",
+      "instance_name": "replacewithaccountname",
+      "tags": ["Sanctioned"]
+    },
+    {
+      "app": "Amazon AppSync",
+      "instance_id": "replacewithaccountid",
+      "instance_name": "replacewithaccountname",
+      "tags": ["Sanctioned"]
+    },
+    {
+      "app": "Amazon Auto Scaling",
+      "instance_id": "replacewithaccountid",
+      "instance_name": "replacewithaccountname",
+      "tags": ["Sanctioned"]
+    },
+    {
+      "app": "Amazon Auto Scaling Plans",
+      "instance_id": "replacewithaccountid",
+      "instance_name": "replacewithaccountname",
+      "tags": ["Sanctioned"]
+    },
+    {
+      "app": "Amazon Batch",
+      "instance_id": "replacewithaccountid",
+      "instance_name": "replacewithaccountname",
+      "tags": ["Sanctioned"]
+    },
+    {
+      "app": "Amazon Bedrock",
+      "instance_id": "replacewithaccountid",
+      "instance_name": "replacewithaccountname",
+      "tags": ["Sanctioned"]
+    },
+    {
+      "app": "Amazon Budgets",
+      "instance_id": "replacewithaccountid",
+      "instance_name": "replacewithaccountname",
+      "tags": ["Sanctioned"]
+    },
+    {
+      "app": "Amazon Business",
+      "instance_id": "replacewithaccountid",
+      "instance_name": "replacewithaccountname",
+      "tags": ["Sanctioned"]
+    },
+    {
+      "app": "Amazon Certificate Manager",
+      "instance_id": "replacewithaccountid",
+      "instance_name": "replacewithaccountname",
+      "tags": ["Sanctioned"]
+    },
+    {
+      "app": "Amazon Certificate Manager Private Certificate Authority",
+      "instance_id": "replacewithaccountid",
+      "instance_name": "replacewithaccountname",
+      "tags": ["Sanctioned"]
+    },
+    {
+      "app": "Amazon Cloud9",
+      "instance_id": "replacewithaccountid",
+      "instance_name": "replacewithaccountname",
+      "tags": ["Sanctioned"]
+    },
+   
+    {
+      "app": "Amazon CloudFormation",
+      "instance_id": "replacewithaccountid",
+      "instance_name": "replacewithaccountname",
+      "tags": ["Sanctioned"]
+    },
+    {
+      "app": "Amazon CloudFront",
+      "instance_id": "replacewithaccountid",
+      "instance_name": "replacewithaccountname",
+      "tags": ["Sanctioned"]
+    },
+    {
+      "app": "Amazon CloudWatch",
+      "instance_id": "replacewithaccountid",
+      "instance_name": "replacewithaccountname",
+      "tags": ["Sanctioned"]
+    },
+    {
+      "app": "Amazon CloudWatch Application Insights",
+      "instance_id": "replacewithaccountid",
+      "instance_name": "replacewithaccountname",
+      "tags": ["Sanctioned"]
+    },
+    {
+      "app": "Amazon CloudWatch Events",
+      "instance_id": "replacewithaccountid",
+      "instance_name": "replacewithaccountname",
+      "tags": ["Sanctioned"]
+    },
+    {
+      "app": "Amazon CloudWatch Logs",
+      "instance_id": "replacewithaccountid",
+      "instance_name": "replacewithaccountname",
+      "tags": ["Sanctioned"]
+    },
+    {
+      "app": "Amazon CodeArtifact",
+      "instance_id": "replacewithaccountid",
+      "instance_name": "replacewithaccountname",
+      "tags": ["Sanctioned"]
+    },
+    {
+      "app": "Amazon CodeBuild",
+      "instance_id": "replacewithaccountid",
+      "instance_name": "replacewithaccountname",
+      "tags": ["Sanctioned"]
+    },
+    {
+      "app": "Amazon CodeCommit",
+      "instance_id": "replacewithaccountid",
+      "instance_name": "replacewithaccountname",
+      "tags": ["Sanctioned"]
+    },
+    {
+      "app": "Amazon CodePipeline",
+      "instance_id": "replacewithaccountid",
+      "instance_name": "replacewithaccountname",
+      "tags": ["Sanctioned"]
+    },
+    {
+      "app": "Amazon CodeStar connections",
+      "instance_id": "replacewithaccountid",
+      "instance_name": "replacewithaccountname",
+      "tags": ["Sanctioned"]
+    },
+    {
+      "app": "Amazon Cognito Identity",
+      "instance_id": "replacewithaccountid",
+      "instance_name": "replacewithaccountname",
+      "tags": ["Sanctioned"]
+    },
+    {
+      "app": "Amazon Cognito Identity Provider",
+      "instance_id": "replacewithaccountid",
+      "instance_name": "replacewithaccountname",
+      "tags": ["Sanctioned"]
+    },
+    {
+      "app": "Amazon Cognito Sync",
+      "instance_id": "replacewithaccountid",
+      "instance_name": "replacewithaccountname",
+      "tags": ["Sanctioned"]
+    },
+    {
+      "app": "Amazon Compute Optimizer",
+      "instance_id": "replacewithaccountid",
+      "instance_name": "replacewithaccountname",
+      "tags": ["Sanctioned"]
+    },
+    {
+      "app": "Amazon Config",
+      "instance_id": "replacewithaccountid",
+      "instance_name": "replacewithaccountname",
+      "tags": ["Sanctioned"]
+    },
+    {
+      "app": "Amazon Connect Customer Profiles",
+      "instance_id": "replacewithaccountid",
+      "instance_name": "replacewithaccountname",
+      "tags": ["Sanctioned"]
+    },
+    {
+      "app": "Amazon Connect Service",
+      "instance_id": "replacewithaccountid",
+      "instance_name": "replacewithaccountname",
+      "tags": ["Sanctioned"]
+    },
+    {
+      "app": "Amazon Cost and Usage Report Service",
+      "instance_id": "replacewithaccountid",
+      "instance_name": "replacewithaccountname",
+      "tags": ["Sanctioned"]
+    },
+    {
+      "app": "Amazon Cost Explorer Service",
+      "instance_id": "replacewithaccountid",
+      "instance_name": "replacewithaccountname",
+      "tags": ["Sanctioned"]
+    },
+    {
+      "app": "Amazon Data Firehose",
+      "instance_id": "replacewithaccountid",
+      "instance_name": "replacewithaccountname",
+      "tags": ["Sanctioned"]
+    },
+    {
+      "app": "Amazon Data Lifecycle Manager",
+      "instance_id": "replacewithaccountid",
+      "instance_name": "replacewithaccountname",
+      "tags": ["Sanctioned"]
+    },
+    {
+      "app": "Amazon Database Migration Service",
+      "instance_id": "replacewithaccountid",
+      "instance_name": "replacewithaccountname",
+      "tags": ["Sanctioned"]
+    },
+    {
+      "app": "Amazon DataSync",
+      "instance_id": "replacewithaccountid",
+      "instance_name": "replacewithaccountname",
+      "tags": ["Sanctioned"]
+    },
+    {
+      "app": "Amazon Detective",
+      "instance_id": "replacewithaccountid",
+      "instance_name": "replacewithaccountname",
+      "tags": ["Sanctioned"]
+    },
+    {
+      "app": "Amazon DevOps Guru",
+      "instance_id": "replacewithaccountid",
+      "instance_name": "replacewithaccountname",
+      "tags": ["Sanctioned"]
+    },
+    {
+      "app": "Amazon Direct Connect",
+      "instance_id": "replacewithaccountid",
+      "instance_name": "replacewithaccountname",
+      "tags": ["Sanctioned"]
+    },
+    {
+      "app": "Amazon Directory Service",
+      "instance_id": "replacewithaccountid",
+      "instance_name": "replacewithaccountname",
+      "tags": ["Sanctioned"]
+    },
+    {
+      "app": "Amazon DynamoDB",
+      "instance_id": "replacewithaccountid",
+      "instance_name": "replacewithaccountname",
+      "tags": ["Sanctioned"]
+    },
+    {
+      "app": "Amazon DynamoDB Accelerator (DAX)",
+      "instance_id": "replacewithaccountid",
+      "instance_name": "replacewithaccountname",
+      "tags": ["Sanctioned"]
+    },
+    {
+      "app": "Amazon DynamoDB Streams",
+      "instance_id": "replacewithaccountid",
+      "instance_name": "replacewithaccountname",
+      "tags": ["Sanctioned"]
+    },
+    {
+      "app": "Amazon EC2",
+      "instance_id": "replacewithaccountid",
+      "instance_name": "replacewithaccountname",
+      "tags": ["Sanctioned"]
+    },
+    {
+      "app": "Amazon EC2 Container Service",
+      "instance_id": "replacewithaccountid",
+      "instance_name": "replacewithaccountname",
+      "tags": ["Sanctioned"]
+    },
+    {
+      "app": "Amazon EC2 Instance Connect",
+      "instance_id": "replacewithaccountid",
+      "instance_name": "replacewithaccountname",
+      "tags": ["Sanctioned"]
+    },
+    {
+      "app": "Amazon EKS",
+      "instance_id": "replacewithaccountid",
+      "instance_name": "replacewithaccountname",
+      "tags": ["Sanctioned"]
+    },
+    {
+      "app": "Amazon ElastiCache",
+      "instance_id": "replacewithaccountid",
+      "instance_name": "replacewithaccountname",
+      "tags": ["Sanctioned"]
+    },
+    {
+      "app": "Amazon Elastic Beanstalk",
+      "instance_id": "replacewithaccountid",
+      "instance_name": "replacewithaccountname",
+      "tags": ["Sanctioned"]
+    },
+    {
+      "app": "Amazon Elastic Container Registry",
+      "instance_id": "replacewithaccountid",
+      "instance_name": "replacewithaccountname",
+      "tags": ["Sanctioned"]
+    },
+    {
+      "app": "Amazon Elastic Container Registry Public",
+      "instance_id": "replacewithaccountid",
+      "instance_name": "replacewithaccountname",
+      "tags": ["Sanctioned"]
+    },
+    {
+      "app": "Amazon Elastic File System",
+      "instance_id": "replacewithaccountid",
+      "instance_name": "replacewithaccountname",
+      "tags": ["Sanctioned"]
+    },
+    {
+      "app": "Amazon Elastic Load Balancing",
+      "instance_id": "replacewithaccountid",
+      "instance_name": "replacewithaccountname",
+      "tags": ["Sanctioned"]
+    },
+    {
+      "app": "Amazon Elasticsearch Service",
+      "instance_id": "replacewithaccountid",
+      "instance_name": "replacewithaccountname",
+      "tags": ["Sanctioned"]
+    },
+    {
+      "app": "Amazon Elemental MediaPackage",
+      "instance_id": "replacewithaccountid",
+      "instance_name": "replacewithaccountname",
+      "tags": ["Sanctioned"]
+    },
+    {
+      "app": "Amazon Elemental MediaStore",
+      "instance_id": "replacewithaccountid",
+      "instance_name": "replacewithaccountname",
+      "tags": ["Sanctioned"]
+    },
+    {
+      "app": "Amazon Fault Injection Simulator",
+      "instance_id": "replacewithaccountid",
+      "instance_name": "replacewithaccountname",
+      "tags": ["Sanctioned"]
+    },
+    {
+      "app": "Amazon Forecast Service",
+      "instance_id": "replacewithaccountid",
+      "instance_name": "replacewithaccountname",
+      "tags": ["Sanctioned"]
+    },
+    {
+      "app": "Amazon FSx",
+      "instance_id": "replacewithaccountid",
+      "instance_name": "replacewithaccountname",
+      "tags": ["Sanctioned"]
+    },
+    {
+      "app": "Amazon Global Accelerator",
+      "instance_id": "replacewithaccountid",
+      "instance_name": "replacewithaccountname",
+      "tags": ["Sanctioned"]
+    },
+    {
+      "app": "Amazon Glue",
+      "instance_id": "replacewithaccountid",
+      "instance_name": "replacewithaccountname",
+      "tags": ["Sanctioned"]
+    },
+    {
+      "app": "Amazon Glue DataBrew",
+      "instance_id": "replacewithaccountid",
+      "instance_name": "replacewithaccountname",
+      "tags": ["Sanctioned"]
+    },
+    {
+      "app": "Amazon GuardDuty",
+      "instance_id": "replacewithaccountid",
+      "instance_name": "replacewithaccountname",
+      "tags": ["Sanctioned"]
+    },
+    {
+      "app": "Amazon Health APIs and Notifications",
+      "instance_id": "replacewithaccountid",
+      "instance_name": "replacewithaccountname",
+      "tags": ["Sanctioned"]
+    },
+    {
+      "app": "Amazon IAM",
+      "instance_id": "replacewithaccountid",
+      "instance_name": "replacewithaccountname",
+      "tags": ["Sanctioned"]
+    },
+    {
+      "app": "Amazon Kendra",
+      "instance_id": "replacewithaccountid",
+      "instance_name": "replacewithaccountname",
+      "tags": ["Sanctioned"]
+    },
+    {
+      "app": "Amazon Kinesis",
+      "instance_id": "replacewithaccountid",
+      "instance_name": "replacewithaccountname",
+      "tags": ["Sanctioned"]
+    },
+    {
+      "app": "Amazon Kinesis Analytics",
+      "instance_id": "replacewithaccountid",
+      "instance_name": "replacewithaccountname",
+      "tags": ["Sanctioned"]
+    },
+    {
+      "app": "Amazon Lambda",
+      "instance_id": "replacewithaccountid",
+      "instance_name": "replacewithaccountname",
+      "tags": ["Sanctioned"]
+    },
+    {
+      "app": "Amazon Lex Model Building Service",
+      "instance_id": "replacewithaccountid",
+      "instance_name": "replacewithaccountname",
+      "tags": ["Sanctioned"]
+    },
+    {
+      "app": "Amazon Lex Model Building V2",
+      "instance_id": "replacewithaccountid",
+      "instance_name": "replacewithaccountname",
+      "tags": ["Sanctioned"]
+    },
+    {
+      "app": "Amazon Lex Runtime V2",
+      "instance_id": "replacewithaccountid",
+      "instance_name": "replacewithaccountname",
+      "tags": ["Sanctioned"]
+    },
+    {
+      "app": "Amazon License Manager",
+      "instance_id": "replacewithaccountid",
+      "instance_name": "replacewithaccountname",
+      "tags": ["Sanctioned"]
+    },
+    {
+      "app": "Amazon Managed Blockchain",
+      "instance_id": "replacewithaccountid",
+      "instance_name": "replacewithaccountname",
+      "tags": ["Sanctioned"]
+    },
+    {
+      "app": "Amazon Music",
+      "instance_id": "replacewithaccountid",
+      "instance_name": "replacewithaccountname",
+      "tags": ["Sanctioned"]
+    },
+    {
+      "app": "Amazon MWAA",
+      "instance_id": "replacewithaccountid",
+      "instance_name": "replacewithaccountname",
+      "tags": ["Sanctioned"]
+    },
+    {
+      "app": "Amazon Network Firewall",
+      "instance_id": "replacewithaccountid",
+      "instance_name": "replacewithaccountname",
+      "tags": ["Sanctioned"]
+    },
+    {
+      "app": "Amazon Organizations",
+      "instance_id": "replacewithaccountid",
+      "instance_name": "replacewithaccountname",
+      "tags": ["Sanctioned"]
+    },
+    {
+      "app": "Amazon Outposts",
+      "instance_id": "replacewithaccountid",
+      "instance_name": "replacewithaccountname",
+      "tags": ["Sanctioned"]
+    },
+    {
+      "app": "Amazon Performance Insights",
+      "instance_id": "replacewithaccountid",
+      "instance_name": "replacewithaccountname",
+      "tags": ["Sanctioned"]
+    },
+    {
+      "app": "Amazon Polly",
+      "instance_id": "replacewithaccountid",
+      "instance_name": "replacewithaccountname",
+      "tags": ["Sanctioned"]
+    },
+    {
+      "app": "Amazon Price List Service",
+      "instance_id": "replacewithaccountid",
+      "instance_name": "replacewithaccountname",
+      "tags": ["Sanctioned"]
+    },
+    {
+      "app": "Amazon Prime Video",
+      "instance_id": "replacewithaccountid",
+      "instance_name": "replacewithaccountname",
+      "tags": ["Sanctioned"]
+    },
+    {
+      "app": "Amazon Redshift",
+      "instance_id": "replacewithaccountid",
+      "instance_name": "replacewithaccountname",
+      "tags": ["Sanctioned"]
+    },
+    {
+      "app": "Amazon Resource Access Manager",
+      "instance_id": "replacewithaccountid",
+      "instance_name": "replacewithaccountname",
+      "tags": ["Sanctioned"]
+    },
+    {
+      "app": "Amazon Resource Groups",
+      "instance_id": "replacewithaccountid",
+      "instance_name": "replacewithaccountname",
+      "tags": ["Sanctioned"]
+    },
+    {
+      "app": "Amazon Resource Groups Tagging API",
+      "instance_id": "replacewithaccountid",
+      "instance_name": "replacewithaccountname",
+      "tags": ["Sanctioned"]
+    },
+    {
+      "app": "Amazon Route 53",
+      "instance_id": "replacewithaccountid",
+      "instance_name": "replacewithaccountname",
+      "tags": ["Sanctioned"]
+    },
+    {
+      "app": "Amazon Route 53 Domains",
+      "instance_id": "replacewithaccountid",
+      "instance_name": "replacewithaccountname",
+      "tags": ["Sanctioned"]
+    },
+    {
+      "app": "Amazon Route 53 Resolver",
+      "instance_id": "replacewithaccountid",
+      "instance_name": "replacewithaccountname",
+      "tags": ["Sanctioned"]
+    },
+    {
+      "app": "Amazon Route53 Recovery Cluster",
+      "instance_id": "replacewithaccountid",
+      "instance_name": "replacewithaccountname",
+      "tags": ["Sanctioned"]
+    },
+    {
+      "app": "Amazon Route53 Recovery Control Config",
+      "instance_id": "replacewithaccountid",
+      "instance_name": "replacewithaccountname",
+      "tags": ["Sanctioned"]
+    },
+    
+    {
+      "app": "Amazon S3 Control",
+      "instance_id": "replacewithaccountid",
+      "instance_name": "replacewithaccountname",
+      "tags": ["Sanctioned"]
+    },
+    {
+      "app": "Amazon Savings Plans",
+      "instance_id": "replacewithaccountid",
+      "instance_name": "replacewithaccountname",
+      "tags": ["Sanctioned"]
+    },
+    {
+      "app": "Amazon Schemas",
+      "instance_id": "replacewithaccountid",
+      "instance_name": "replacewithaccountname",
+      "tags": ["Sanctioned"]
+    },
+    {
+      "app": "Amazon Secrets Manager",
+      "instance_id": "replacewithaccountid",
+      "instance_name": "replacewithaccountname",
+      "tags": ["Sanctioned"]
+    },
+    {
+      "app": "Amazon Security Token Service",
+      "instance_id": "replacewithaccountid",
+      "instance_name": "replacewithaccountname",
+      "tags": ["Sanctioned"]
+    },
+    {
+      "app": "Amazon SecurityHub",
+      "instance_id": "replacewithaccountid",
+      "instance_name": "replacewithaccountname",
+      "tags": ["Sanctioned"]
+    },
+    {
+      "app": "Amazon Service Catalog",
+      "instance_id": "replacewithaccountid",
+      "instance_name": "replacewithaccountname",
+      "tags": ["Sanctioned"]
+    },
+    {
+      "app": "Amazon Service Catalog App Registry",
+      "instance_id": "replacewithaccountid",
+      "instance_name": "replacewithaccountname",
+      "tags": ["Sanctioned"]
+    },
+    {
+      "app": "Amazon Service Quotas",
+      "instance_id": "replacewithaccountid",
+      "instance_name": "replacewithaccountname",
+      "tags": ["Sanctioned"]
+    },
+    {
+      "app": "Amazon Shield",
+      "instance_id": "replacewithaccountid",
+      "instance_name": "replacewithaccountname",
+      "tags": ["Sanctioned"]
+    },
+    {
+      "app": "Amazon Simple Email Service",
+      "instance_id": "replacewithaccountid",
+      "instance_name": "replacewithaccountname",
+      "tags": ["Sanctioned"]
+    },
+    {
+      "app": "Amazon Simple Email Service V2",
+      "instance_id": "replacewithaccountid",
+      "instance_name": "replacewithaccountname",
+      "tags": ["Sanctioned"]
+    },
+    {
+      "app": "Amazon SQS",
+      "instance_id": "replacewithaccountid",
+      "instance_name": "replacewithaccountname",
+      "tags": ["Sanctioned"]
+    },
+    {
+      "app": "Amazon Step Functions",
+      "instance_id": "replacewithaccountid",
+      "instance_name": "replacewithaccountname",
+      "tags": ["Sanctioned"]
+    },
+    {
+      "app": "Amazon Storage Gateway",
+      "instance_id": "replacewithaccountid",
+      "instance_name": "replacewithaccountname",
+      "tags": ["Sanctioned"]
+    },
+    {
+      "app": "Amazon Support",
+      "instance_id": "replacewithaccountid",
+      "instance_name": "replacewithaccountname",
+      "tags": ["Sanctioned"]
+    },
+    {
+      "app": "Amazon Systems Manager",
+      "instance_id": "replacewithaccountid",
+      "instance_name": "replacewithaccountname",
+      "tags": ["Sanctioned"]
+    },
+    {
+      "app": "Amazon Systems Manager Incident Manager",
+      "instance_id": "replacewithaccountid",
+      "instance_name": "replacewithaccountname",
+      "tags": ["Sanctioned"]
+    },
+    {
+      "app": "Amazon Transcribe Service",
+      "instance_id": "replacewithaccountid",
+      "instance_name": "replacewithaccountname",
+      "tags": ["Sanctioned"]
+    },
+    {
+      "app": "Amazon WAF",
+      "instance_id": "replacewithaccountid",
+      "instance_name": "replacewithaccountname",
+      "tags": ["Sanctioned"]
+    },
+    {
+      "app": "Amazon WAF Regional",
+      "instance_id": "replacewithaccountid",
+      "instance_name": "replacewithaccountname",
+      "tags": ["Sanctioned"]
+    },
+    {
+      "app": "Amazon WAFV2",
+      "instance_id": "replacewithaccountid",
+      "instance_name": "replacewithaccountname",
+      "tags": ["Sanctioned"]
+    },
+    
+    {
+      "app": "Amazon WorkSpaces",
+      "instance_id": "replacewithaccountid",
+      "instance_name": "replacewithaccountname",
+      "tags": ["Sanctioned"]
+    },
+    {
+      "app": "Amazon X-Ray",
+      "instance_id": "replacewithaccountid",
+      "instance_name": "replacewithaccountname",
+      "tags": ["Sanctioned"]
+    }
+  ]
+}
